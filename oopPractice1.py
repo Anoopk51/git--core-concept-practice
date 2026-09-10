@@ -22,3 +22,16 @@ print(obj.age)
 print(obj.branch)
 print(obj.name)
 print(obj.stablishYear)
+
+
+
+'''
+1.
+'''
+
+class Company:
+    def __init__(self,name,city):
+        self.name = name
+        self.city = city
+        # pass
+        
